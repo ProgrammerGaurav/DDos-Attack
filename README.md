@@ -1,4 +1,8 @@
 # DDos-Attack
+<p>
+A distributed denial-of-service (DDoS) attack is one of the most powerful weapons on the internet. When you hear about a website being “brought down by hackers,” it generally means it has become a victim of a DDoS attack. In short, this means that hackers have attempted to make a website or computer unavailable by flooding or crashing the website with too much traffic.
+</p>
+<br>
 This is a simple DDoS Attack tool and even a begginer hacker can use this.
 Run the following commands :
 
