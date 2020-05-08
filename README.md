@@ -11,3 +11,7 @@ chmod +x *
 python3 run.py
 </code>
 <pre>
+
+This tools sends bots to the website at <b>80 bots per second</b>
+<br>
+So eg: If the website has the capacity to handle 400 Users per second, then you have to run this tool in 5 different terminal Window.
