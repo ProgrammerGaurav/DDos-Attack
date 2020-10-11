@@ -15,7 +15,7 @@ git clone https://github.com/ProgrammerGaurav/DDos-Attack.git
 cd DDos-Attack
 python run.py
 ```
-###### Ubuntu
+##### Ubuntu : 
 ```
 sudo apt install git, python3
 git clone https://github.com/ProgrammerGaurav/DDos-Attack.git
