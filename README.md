@@ -9,13 +9,7 @@ Python3
 
 This is a simple DDoS Attack tool and even a begginer hacker can use this.
 ##### Run the following commands :
-##### Windows:
-```
-git clone https://github.com/ProgrammerGaurav/DDos-Attack.git
-cd DDos-Attack
-python run.py
-```
-##### Ubuntu : 
+##### Linux : 
 ```
 sudo apt install git, python3
 git clone https://github.com/ProgrammerGaurav/DDos-Attack.git
